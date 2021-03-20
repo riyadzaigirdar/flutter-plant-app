@@ -10,3 +10,9 @@
                 image: AssetImage("assets/images/img.png"))),
     )
 
+# images 
+
+[home page](https://github.com/user/repo/blob/master/1.png)
+
+[detail page](https://github.com/user/repo/blob/master/2.png)
+
