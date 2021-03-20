@@ -14,5 +14,5 @@
 
 [home page](https://github.com/riyadzaigirdar/flutter-plant-app/blob/master/1.png)
 
-[detail page](https://github.com/riyadzaigirdar/flutter-plant-app  /blob/master/2.png)
+[detail page](https://github.com/riyadzaigirdar/flutter-plant-app/blob/master/2.png)
 
